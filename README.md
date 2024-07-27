@@ -1,2 +1,12 @@
-# kana2epub
-kana2epub is a software that annotates Japanese epub e-books with kanji and furigana. Select an epub file and the program will generate an epub file named "original file name + (kana).epub".
+# **kana2epub**
+*kana2epub是对日文epub电子书进行汉字振假名标注的软件。选择一个epub文件，程序会生成名为"原文件名+(kana).epub"的epub文件。*
+
+©Copyright 07/27/2024,  雾瑛随风  软件传播时，必须保留源代码。
+
+软件特性：
+* 保留了原书的全部排版信息，包括封面、目录、图片、文字方向以及缩进等。
+* 保留了书中原本就有的振假名，避免了原文某些特定含义的丢失。
+* 可对同一文件夹中的epub文件进行批量处理。
+* 可自定义的输出路径。
+
+### **基本使用**
